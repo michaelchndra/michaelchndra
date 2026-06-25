@@ -127,7 +127,7 @@ const michael: Developer = {
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelchndra&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@michaelchndra)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelchndra&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@80d11af4-0002-4dac-a3f8-cb5d7bca3b48)
 
 </div>
 
