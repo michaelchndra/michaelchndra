@@ -123,6 +123,18 @@ const michael: Developer = {
 
 ---
 
+## ⏱️ Coding Activity
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelchndra&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@michaelchndra)
+
+</div>
+
+> 📡 *Stats update automatically via WakaTime — tracks real coding time across all projects.*
+
+---
+
 ## 💼 Work Experience
 
 <div align="center">
