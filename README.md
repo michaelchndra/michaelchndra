@@ -123,15 +123,13 @@ const michael: Developer = {
 
 ---
 
-## ⏱️ Coding Activity
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@michaelchndra&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@michaelchndra)
+[![trophy](https://github-profile-trophy.vercel.app/?username=michaelchndra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
-> 📡 *Stats update automatically via WakaTime — tracks real coding time across all projects.*
 
 ---
 
@@ -168,7 +166,25 @@ const michael: Developer = {
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelchndra/michaelchndra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelchndra/michaelchndra/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/michaelchndra/michaelchndra/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
 
 *Open to Backend / Software Developer opportunities in Batam — let's build something.*
 
